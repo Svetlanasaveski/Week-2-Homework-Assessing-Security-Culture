@@ -1,127 +1,104 @@
+# Week 2 Homework: Assessing Security Culture
 
+This week we learned about security culture and how to promote it within organizations.
 
-Step 1: Measure and Set Goals
-1. Using outside research, indicate the potential security risks of allowing employees to
-access work information on their personal devices. Identify at least three potential
-attacks that can be carried out.
-Answer:
-The potential risks of allowing employees to access work information on their devices are
-having data leakage, possible hacking, vulnerability to malware, the device is lost or
-stolen, malicious apps, the device can be rooting/jailbreaking, and also the untrustworthy
-employee.
-The device can be jailbroken after the device is lost or stolen, and all data can be
-accessed. Also, employees can download any malicious apps or even malware via emails.
-An employee sharing the company data with others or even competitors.
-2. Based on the above scenario, what is the preferred employee behavior?
-○ For example, if employees were downloading suspicious email attachments, the
-preferred behavior would be that employees only download attachments from
-trusted sources.
-Answer:
-● For the potential risks listed above, the preferred Behaviour is as follows: - Lost or
-stolen devices correction: Use encrypted devices. Ideally, the company should
-work on policies and the work environment to such an extent that the employee
-does not have to work from home. However, this may not be achievable in every
-situation and some professions necessitate the employees to work from home.
-The company can then have the policy to issue encrypted secure
-laptops/computers issued to the employees. Alternatively, the company can have
-the policy to encrypt an employee's personal laptop or device. The employee can
-be given a choice whether to use the company issued encrypted laptop or have
-their own laptop/mobile encrypted
-● Increased protection from malware: Installing anti-malware on their personal
-devices. The company can offer employees to install latest anti-malware software
-on their personal devices as part of the benefits package for working in the
-company
-● Increasing awareness: The corrective employee behavior would be to be cognizant
-of the ways they are vulnerable to identity theft by sharing real-world data such as
-the research conducted by the US Treasury Department
-3. What methods would you use to measure how often employees are currently _not_
-behaving according to the preferred behavior?
-○ For example, conduct a survey to see how often people download email
-attachments from unknown senders.
-Answer:
-● I will utilize the Information security culture framework (ISCF) as originally
-proposed by Alhogail and colleagues which is composed of five dimensions
-including strategy, Technology, Organization, People, and Environment (STOPE),
-and will target the 4 main factors of human factor diamond which include:
-Preparedness, Responsibility, Management, Society and Regulations. My
-assessment instrument will be a questionnaire to collect data from employees
-regarding their beliefs, perceptions, knowledge, and practice towards information
-security. The survey will target two specific components
-● The demographic information of the employee’s e-g, age group, education,
-background, Job title, information technology use, and experience.
-● Obtaining assessment regarding the information security behavior, perceptions,
-and knowledge about IT. Prior studies have demonstrated that the employee's
-knowledge about IT positively correlates with the
-4. What is the goal that you would like the organization to reach regarding this behavior?
-○ For example, to have less than 5% of employees downloading suspicious email
-attachments.
-Answer:
-● The goal will depend on the results of the survey. A robust statistical analysis will
-be performed to determine the reliability and validity of the assessment
-instrument. The reliability will be assessed by analyzing the Cronbach alpha as a
-measure of internal consistency, with a minimum set to at least above 0.6 for
-acceptability. The validity will be measured using the goodness of fit. (0.9 as
-acceptable and 0.95+ as good fit)
-● Once the assessment instrument has been determined to have acceptable
-reliability and validity. The goal would be to reduce the number of employees using
-personal devices to initially achieve a 50% reduction in the existing practice and
-eventually to a rate of less than 5% overall. There will also be an 80% or above
-pass rate requirement for the employees in the information security quizzes.
-Step 2: Involve the Right People
+It’s important that all employees are aware of common security risks and treat security seriously. The majority of cyberattacks aim to exploit human weaknesses with methods like phishing.
+
+For this reason, people are most often the weakest link in an organization’s security defenses.
+
+### Scenario
+Employees at SilverCorp are increasingly using their own personal devices for company work.
+
+Specifically, over half of all employees check their work email and communications via Slack on their personal mobile phones.
+
+Another 25% of employees are doing other work-related activities using work accounts and work-related applications on their personal phone.
+
+Allowing sensitive work information to be shared on employees’ personal devices has a number of security implications.
+
+You must research these security risks and use the security culture framework to develop a plan to mitigate the concerns.
+
+### Step 1: Measure and Set Goals
+
+  1. Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.  
+   
+    Answer:  
+  - *The potential risks of allowing employees to access work information on their devices are having data leakage, possible hacking, vulnerability to malware, the device is lost or stolen, malicious apps, the device can be rooting/jailbreaking, and also the untrustworthy employee.*  
+    
+  - *The device can be jailbroken after the device is lost or stolen, and all data can be accessed. Also, employees can download any malicious apps or even malware via emails. An employee sharing the company data with others or even competitors.*  
+    
+  2. Based on the above scenario, what is the preferred employee behavior?  
+    
+  - For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources.  
+
+    Answer:  
+  - *For the potential risks listed above, the preferred Behaviour is as follows: - Lost or stolen devices correction: Use encrypted devices. Ideally, the company should work on policies and the work environment to such an extent that the employee does not have to work from home. However, this may not be achievable in every situation and some professions necessitate the employees to work from home. The company can then have the policy to issue encrypted secure laptops/computers issued to the employees. Alternatively, the company can have the policy to encrypt an employee's personal laptop or device. The employee can be given a choice whether to use the company issued encrypted laptop or have their own laptop/mobile encrypted*    
+    
+  - *Increased protection from malware: Installing anti-malware on their personal devices. The company can offer employees to install latest anti-malware software on their personal devices as part of the benefits package for working in the company*  
+    
+  - *Increasing awareness: The corrective employee behavior would be to be cognizant of the ways they are vulnerable to identity theft by sharing real-world data such as the research conducted by the US Treasury Department*   
+    
+  3. What methods would you use to measure how often employees are currently *not* behaving according to the preferred behavior?  
+
+  - For example, conduct a survey to see how often people download email attachments from unknown senders.  
+  
+    Answer:  
+  - *I will utilize the Information security culture framework (ISCF) as originally proposed by Alhogail and colleagues which is composed of five dimensions including strategy, Technology, Organization, People, and Environment (STOPE), and will target the 4 main factors of human factor diamond which include: Preparedness, Responsibility, Management, Society and Regulations. My assessment instrument will be a questionnaire to collect data from employees regarding their beliefs, perceptions, knowledge, and practice towards information security. The survey will target two specific components*  
+  
+  - *The demographic information of the employee’s e-g, age group, education, background, Job title, information technology use, and experience.*  
+  
+  - *Obtaining assessment regarding the information security behavior, perceptions, and knowledge about IT. Prior studies have demonstrated that the employee's knowledge about IT positively correlates*  
+  
+  4. What is the goal that you would like the organization to reach regarding this behavior?  
+  
+  - For example, to have less than 5% of employees downloading suspicious email attachments.  
+  
+  Answer:  
+  
+  - `The goal will depend on the results of the survey. A robust statistical analysis will be performed to determine the reliability and validity of the assessment instrument. The reliability will be assessed by analyzing the Cronbach alpha as a measure of internal consistency, with a minimum set to at least above 0.6 for acceptability. The validity will be measured using the goodness of fit. (0.9 as acceptable and 0.95+ as good fit)`  
+  
+  - `Once the assessment instrument has been determined to have acceptable reliability and validity. The goal would be to reduce the number of employees using personal devices to initially achieve a 50% reduction in the existing practice and eventually to a rate of less than 5% overall. There will also be an 80% or above pass rate requirement for the employees in the information security quizzes.`  
+  
+  
+### Step 2: Involve the Right People  
+
 Now that you have a goal in mind, who needs to be involved?
-● Indicate at least five employees or departments that need to be involved. For each
-person or department, indicate in 2-3 sentences what their role and responsibilities will
-be.
-Answer:
-Five People to involve
-● Chief Executive Officer of the company Role:
-○ Providing information regarding the existing state of the company.
--Bringing all involved parties to the table including the COO, Chief of staff,
-Chief financial officer -Providing resources for executing the proposed plan
-e-g buying anti-malware software, new encrypted laptops for the
-employees
-● Chief Information Officer of the Company Role:
-○ Implementing the technological aspects of the cybersecurity proposed
-plan, e-g installing malware, upgrading OS, encrypting employee's phones
-or laptops
-○ Conducting surveys for the assessment of security culture, conducting
-quality control studies for repeat assessment of whether the company is
-achieving the set milestones and goals for the implementation of the
-security policy
-● Board of Directors
-○ Incorporating the proposed security culture policies into the company
-policies and strategy in combating insecure employee practices
-● Chief Operating officer
-○ Communicating the policy changes to the employees
-○ Training the employees against the security threats by creating awareness
-courses- such as awareness regarding the mechanisms of identity theft
-● Chief of Staff
-○ Hiring new personnel as needed for implementing the new security culturesuch
-as new IT specialists. Appointing a chief information security officer
-(CISO)
-● Chief Financial Officer
-○ Determining the financial feasibility in instituting the new company
-policies. For example, determining whether the company can afford to
-issue new encrypted phones or laptops to the employees.
-Step 3: Training Plan
+
+  - Indicate at least five employees or departments that need to be involved. For each person or department, indicate in 2-3 sentences what their role and responsibilities will
+be.  
+
+  Answer:  
+  Five People to involve
+  
+  **Chief Executive Officer of the company Role:**
+    - `Providing information regarding the existing state of the company.`
+      - `Bringing all involved parties to the table including the COO, Chief of staff, Chief financial officer -Providing resources for executing the proposed plan e-g buying anti-malware software, new encrypted laptops for the employees`
+  
+  **Chief Information Officer of the Company Role:**  
+    - `Implementing the technological aspects of the cybersecurity proposed plan, e-g installing malware, upgrading OS, encrypting employee's phones or laptops`
+    - `Conducting surveys for the assessment of security culture, conducting quality control studies for repeat assessment of whether the company is achieving the set milestones and goals for the implementation of the security policy`  
+    
+  **Board of Directors**  
+    - `Incorporating the proposed security culture policies into the company policies and strategy in combating insecure employee practices`  
+    
+  **Chief Operating officer**  
+    - `Communicating the policy changes to the employees`  
+    - `Training the employees against the security threats by creating awareness courses- such as awareness regarding the mechanisms of identity theft`  
+
+  **Chief of Staff**  
+    - `Hiring new personnel as needed for implementing the new security culturesuch as new IT specialists. Appointing a chief information security officer (CISO)`
+
+  **Chief Financial Officer**  
+    - `Determining the financial feasibility in instituting the new company policies. For example, determining whether the company can afford to issue new encrypted phones or laptops to the employees.`
+
+### Step 3: Training Plan  
+
 Training is part of any security culture framework plan. How will you train your employees on
-this security concern? In one page, indicate the following:
-● How frequently will you run training? What format will it take? (i.e. in-person, online, a
-combination of both)
-Answer:
-● Initially, a survey will be conducted to assess the knowledge base of the existing
-employees. The results of the survey will be analyzed for reliability and validity.
-The format of the training will be composed of both in-person interactive sessions
-and online learning. The Company's leadership will be directly involved. The
-in-person sessions will include participation by the company's leadership to
-emphasized the security policies. The more specific topic will be targeted with
-remote online learning. At the current time, due to COVID, even the initial in-person
-session will be conducted in the form of live Zoom sessions Every new employee
-who joins the institution will have to complete the courses/live sessions as a
-mandatory requirement before starting with duties. Some training courses will be
-broad-based creating general awareness, others will be targeted by specific areas
-of vulnerability as outlined below. The general courses will be repeated every year.
-Specific topic courses will be available every 6 months with updated data.
+this security concern? In one page, indicate the following:  
+
+  -How frequently will you run training? What format will it take? (i.e. in-person, online, a combination of both)  
+  
+  Answer:  
+    - `Initially, a survey will be conducted to assess the knowledge base of the existing employees. The results of the survey will be analyzed for reliability and validity. The format of the training will be composed of both in-person interactive sessions and online learning. The Company's leadership will be directly involved. The in-person sessions will include participation by the company's leadership to emphasized the security policies. The more specific topic will be targeted with remote online learning. At the current time, due to COVID, even the initial in-person session will be conducted in the form of live Zoom sessions Every new employee who joins the institution will have to complete the courses/live sessions as a mandatory requirement before starting with duties. Some training courses will be broad-based creating general awareness, others will be targeted by specific areas of vulnerability as outlined below. The general courses will be repeated every year. Specific topic courses will be available every 6 months with updated data.`
 ● What topics will you cover in your training and why? (This should be the bulk of the
 deliverable.)
 Answer:
