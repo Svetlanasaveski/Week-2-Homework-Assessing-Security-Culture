@@ -84,3 +84,12 @@ Submit this homework assignment in a Google Doc.
 ---
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.  
+
+## Week 2 Homework Solution: Assessing Security Culture
+
+Refer to the following solution files for the homework worksheets: 
+
+* [Week 2 Homework Solution: Assessing Security Culture](https://github.com/karma-786/Week-2-Homework-Assessing-Security-Culture/blob/main/Week%202%20Homework%20Solution:%20Assessing%20Security%20Culture.md)  
+
+---
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
